@@ -7,9 +7,13 @@
         "name": "Vizrex",
         "email": "laravel@vizrex.com"
     }],
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/ShahidHussain11/laraviz.git"
+    }],
     "minimum-stability": "dev",
     "require": {
-        "vizrex/laraviz": "~1"
+        "vizrex/laraviz": "dev-master"
     },
     "autoload": {
         "psr-4": {
